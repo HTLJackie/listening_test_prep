@@ -1,0 +1,72 @@
+2022-10-31T20:09:11: osu! just started and will continuing an update (pending folder exists)
+2022-10-31T20:09:11: Command Line: "C:\Users\jacki\OneDrive\Desktop\Listening_test\osu!\osu!.exe"
+2022-10-31T20:09:11: Attempting to MoveInPlace
+2022-10-31T20:09:12: _pending\osu!auth.dll => osu!auth.dll: OK 51c210a2cdcc6ed75fbeae486b9cc429
+2022-10-31T20:09:12: Running cleanup..
+2022-10-31T20:09:12: Cleanup successful!
+2022-10-31T20:09:12: Saving configuration...
+2022-10-31T20:09:12: MoveInPlace successful!
+2022-10-31T20:09:12: Re-running osu! with -go
+2022-10-31T20:09:12: CallbackStatus updated to Checking
+2022-10-31T20:09:12: 
+2022-10-31T20:09:12: Beginning update thread
+2022-10-31T20:09:12: Stream: Stable40
+2022-10-31T20:09:12: 
+2022-10-31T20:09:12: Running cleanup..
+2022-10-31T20:09:12: Cleanup successful!
+2022-10-31T20:09:12: Requesting update information...
+2022-10-31T20:09:23: CallbackStatus updated to Checking
+2022-10-31T20:09:23: 
+2022-10-31T20:09:23: Beginning update thread
+2022-10-31T20:09:23: Stream: Stable40
+2022-10-31T20:09:23: 
+2022-10-31T20:09:23: Running cleanup..
+2022-10-31T20:09:23: Cleanup successful!
+2022-10-31T20:09:23: Requesting update information...
+2022-10-31T20:09:23: osu!.exe: CHANGED (cached)
+2022-10-31T20:09:23: osu!seasonal.dll: CHANGED (cached)
+2022-10-31T20:09:23: Creating staging folder
+2022-10-31T20:09:23: CallbackStatus updated to Updating
+2022-10-31T20:09:23: Processing osu!.exe...
+2022-10-31T20:09:23: Exists locally; checking for patchability...
+2022-10-31T20:09:23: Server returned 2 patch files
+2022-10-31T20:09:23: Applying patch 3829 (to c464e9cf438a5dc0d831faa4ca22d30a)...
+2022-10-31T20:09:26: Reached end of patch chain (3835 / 8da851a446e595c1e9bceff58aaf0094), checking file checksum...
+2022-10-31T20:09:26: Patching success!
+2022-10-31T20:09:26: Processing osu!seasonal.dll...
+2022-10-31T20:09:26: Exists locally; checking for patchability...
+2022-10-31T20:09:27: Server returned 2 patch files
+2022-10-31T20:09:27: Applying patch 3738 (to dccf5b6ff65257c9ea301f25f40b4a8b)...
+2022-10-31T20:09:32: Reached end of patch chain (3832 / 1ddf7daeb27434a017c5187687e97b13), checking file checksum...
+2022-10-31T20:09:32: Patching success!
+2022-10-31T20:09:32: Attempting to MoveInPlace
+2022-10-31T20:09:32: _pending\osu!.exe => osu!.exe: FAIL
+2022-10-31T20:09:32: _pending\osu!seasonal.dll => osu!seasonal.dll: OK 1ddf7daeb27434a017c5187687e97b13
+2022-10-31T20:09:32: Saving out global config
+2022-10-31T20:09:32: 
+2022-10-31T20:09:32: Ending update thread with result: NeedsRestart
+2022-10-31T20:09:32: 
+2022-10-31T20:09:32: CallbackStatus updated to NeedsRestart
+2022-10-31T20:50:10: osu! just started and will continuing an update (pending folder exists)
+2022-10-31T20:50:10: Command Line: "C:\Users\jacki\OneDrive\Desktop\Listening_test\osu!\osu!.exe"
+2022-10-31T20:50:10: Attempting to MoveInPlace
+2022-10-31T20:50:10: _pending\osu!.exe => osu!.exe: OK 8da851a446e595c1e9bceff58aaf0094
+2022-10-31T20:50:10: Running cleanup..
+2022-10-31T20:50:10: Cleanup successful!
+2022-10-31T20:50:10: Saving configuration...
+2022-10-31T20:50:10: MoveInPlace successful!
+2022-10-31T20:50:10: Re-running osu! with -go
+2022-10-31T20:50:10: CallbackStatus updated to Checking
+2022-10-31T20:50:10: 
+2022-10-31T20:50:10: Beginning update thread
+2022-10-31T20:50:10: Stream: Stable40
+2022-10-31T20:50:10: 
+2022-10-31T20:50:10: Running cleanup..
+2022-10-31T20:50:10: Cleanup successful!
+2022-10-31T20:50:10: Requesting update information...
+2022-10-31T20:50:11: No changes to apply!
+2022-10-31T20:50:11: Saving out global config
+2022-10-31T20:50:11: 
+2022-10-31T20:50:11: Ending update thread with result: NoUpdate
+2022-10-31T20:50:11: 
+2022-10-31T20:50:11: CallbackStatus updated to NoUpdate
